@@ -1,4 +1,4 @@
-pointdipole
+PointDipole
 ===========
 
 Introduction
